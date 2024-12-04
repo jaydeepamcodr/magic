@@ -1,0 +1,5 @@
+{
+    "require": {
+        "magiclabs/magic-admin-php": "^1.0"
+    }
+}
